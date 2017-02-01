@@ -1,7 +1,0 @@
-{
-"version": 3,
-"mappings": "AAAA;;wCAEwC;ACFxC;;wCAEwC;ACFxC;;wCAEwC;ACMxC,kDAAkD;AAClD,kDAAkD;AAClD,kDAAkD;AAElD,qDAAqD;ACZrD;;wCAEwC;ADaxC,oDAAoD;AEfpD;;wCAEwC;AFgBxC,gDAAgD;AGlBhD;;wCAEwC;AHmBxC,iDAAiD;AIrBjD;;wCAEwC;AJsBxC,kDAAkD;AKxBlD;;wCAEwC;ALyBxC,kDAAkD;AM3BlD;;wCAEwC;AN4BxC,mDAAmD;AO9BnD;;wCAEwC;AP+BxC,+CAA+C;AQjC/C;;wCAEwC;ARkCxC,iDAAiD;ASpCjD;;wCAEwC;ATqCxC,gDAAgD;AUvChD;;wCAEwC;AVyCxC,mDAAmD;AACnD,mDAAmD;AACnD,mDAAmD",
-"sources": ["scss/config/_mixins.scss","scss/config/_fonts.scss","scss/config/_variables.scss","style.scss","scss/global/_animation.scss","scss/global/_buttons-icons.scss","scss/global/_containers.scss","scss/global/_forms.scss","scss/global/_footer.scss","scss/global/_header.scss","scss/global/_helpers.scss","scss/global/_reset.scss","scss/global/_sidebar.scss","scss/global/_text.scss"],
-"names": [],
-"file": "main.css"
-}
